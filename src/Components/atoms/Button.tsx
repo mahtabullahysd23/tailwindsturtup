@@ -3,6 +3,7 @@ type Props = {
   outline?: boolean;
   onClick: () => void;
 };
+
 const Button = (props: Props) => {
   return (
 
